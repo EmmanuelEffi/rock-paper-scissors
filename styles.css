@@ -333,3 +333,14 @@ body {
         font-size: 1.5em;
     }
 }
+
+@media (max-width: 469px) {
+    .game-board {
+        margin: 0;
+        border-radius: 0;
+        padding: 5px 0;
+        margin: 20px 0 0;
+    }
+
+
+}
